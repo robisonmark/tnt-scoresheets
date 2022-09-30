@@ -1,0 +1,11 @@
+{
+    "scores": [
+        {
+            "critera": "critera1",
+            "score": 10,
+            "notes": "string",
+            "contestantId": "UUID",
+            "eventId": "EventUUID"
+        }
+    ]
+}

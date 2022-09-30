@@ -1,0 +1,11 @@
+{
+    "event": "event_name",
+    "fields": [
+        {
+            "id": "UUID",
+            "name": "critera1",
+            "scoreType": "ten_point",
+            "displayName": "Critera One"
+        }
+    ]
+}
